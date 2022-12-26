@@ -16,4 +16,5 @@ Skills: VUE JS / NEXT JS / PYTHON /DJANGO/ HTML / CSS
 
 [![shadowwalker0222 GitHub stats](https://github-readme-stats.vercel.app/api?username=shadowwalker0222)](https://github.com/shadowwalker0222/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shadowwalker0222)](https://github.com/shadowwalker0222/github-readme-stats)
 
