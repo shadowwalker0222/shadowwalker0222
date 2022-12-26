@@ -8,11 +8,9 @@
 
 ✨ My hobbies are playing video games, swimming, reparing mobile phones!
 
+😄 Pronouns: He/Him 
+
 Skills: VUE JS / NEXT JS / PYTHON /DJANGO/ HTML / CSS
-
-- 🔭 I’m currently working on my personal project 
-- 😄 Pronouns: He/Him 
-
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/shadowwalker0222)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://github.com/shadowwalker0222)  
 
