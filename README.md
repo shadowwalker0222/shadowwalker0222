@@ -3,7 +3,9 @@
 ![Develop by Ryan](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 🎓 I’m a graduate of Nanyang Polytechnic, Diploma in Information Technology.
-🔭 I’m currently working on my own personal projects
+
+🔭 I’m currently working on my own personal projects.
+
 ✨ My hobbies are playing video games, swimming, reparing mobile phones!
 
 Skills: VUE JS / NEXT JS / PYTHON /DJANGO/ HTML / CSS
