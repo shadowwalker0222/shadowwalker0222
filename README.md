@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi there 👋 
+🎓 I’m a graduate of Nanyang Polytechnic, Diploma in Information Technology.
+[![shadowwalker0222 GitHub stats](https://github-readme-stats.vercel.app/api?username=shadowwalker0222)](https://github.com/shadowwalker0222/github-readme-stats)
 
-<!--
-**shadowwalker0222/shadowwalker0222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
