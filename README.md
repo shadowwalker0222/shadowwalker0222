@@ -20,4 +20,4 @@ Skills: VUE JS / NEXT JS / PYTHON /DJANGO/ HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=shadowwalker0222&show_icons=true)  
 
-![Profile views](https://gpvc.arturio.dev/shadowwalker0222)  
+
